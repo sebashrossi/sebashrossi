@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/sebashrossi/sebashrossi/assets/Screenshot 2021-09-22 at 15.04.00.png "Header")](https://some-url.dev/)
+![Header](https://raw.githubusercontent.com/sebashrossi/sebashrossi/assets/Screenshot 2021-09-22 at 15.04.00.png "Header")](https://some-url.dev/)
 
 
 ### Hi there 👋
